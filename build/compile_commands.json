@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jiangy/桌面/Demo_Link/build",
+  "command": "/usr/bin/gcc  -I/home/jiangy/桌面/Demo_Link/include -g -o CMakeFiles/app.dir/src/main.c.o -c /home/jiangy/桌面/Demo_Link/src/main.c",
+  "file": "/home/jiangy/桌面/Demo_Link/src/main.c"
+}
+]

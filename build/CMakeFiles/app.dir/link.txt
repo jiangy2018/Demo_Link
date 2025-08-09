@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/app.dir/src/main.c.o -o /home/jiangy/桌面/Demo_Link/bin/app   -L/home/jiangy/桌面/Demo_Link/lib  -Wl,-rpath,/home/jiangy/桌面/Demo_Link/lib -lcalc 

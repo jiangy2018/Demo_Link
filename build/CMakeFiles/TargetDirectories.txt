@@ -1,0 +1,3 @@
+/home/jiangy/桌面/Demo_Link/build/CMakeFiles/app.dir
+/home/jiangy/桌面/Demo_Link/build/CMakeFiles/edit_cache.dir
+/home/jiangy/桌面/Demo_Link/build/CMakeFiles/rebuild_cache.dir

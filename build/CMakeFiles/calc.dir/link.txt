@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/jiangy/桌面/Demo_Link/lib/libcalc.a CMakeFiles/calc.dir/src/main.c.o CMakeFiles/calc.dir/src/module.c.o
+/usr/bin/ranlib /home/jiangy/桌面/Demo_Link/lib/libcalc.a
